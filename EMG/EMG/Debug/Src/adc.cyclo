@@ -1,0 +1,3 @@
+../Src/adc.c:20:6:ADC_INIT_	1
+../Src/adc.c:46:6:start_conversion_adc	1
+../Src/adc.c:53:10:adc_read	2
