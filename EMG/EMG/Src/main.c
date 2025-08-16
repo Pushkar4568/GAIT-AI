@@ -10,6 +10,7 @@ float output;
 int main()
 
 {
+
 	//https://community.st.com/t5/stm32cubeide-mcus/fpu-is-not-initialized/td-p/620629
 	#if (__FPU_PRESENT == 1) && (__FPU_USED == 1)
 	SCB->CPACR |= ((3UL << 10 * 2) |
@@ -21,9 +22,9 @@ int main()
 
 	while (1)
 	{
-		output=EMG_read();
-		printf("The sensor value is : %.2f V  \n\r",output);
-		for (volatile int i = 0; i < 1000000; i++) {}  //  delay loop
+		 float emg_mv = EMG_read();
+		 printf("EMG: %.2f mV\n\r", emg_mv);
+		 for (volatile int i = 0; i < 1000000; i++); // simple delay
 
 
 
