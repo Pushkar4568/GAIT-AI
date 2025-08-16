@@ -1,3 +1,5 @@
+# OUTPUT :
+
 EMG on Bicep muscle , the threshold used in code may vary depending on the person,
 
 This the op when muscle is flexed:
