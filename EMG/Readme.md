@@ -1,8 +1,10 @@
-# Schematic : https://robu.in/wp-content/uploads/2019/02/Muscle-Sensor-v3-Schematic.pdf
+# Schematic  : 
+ https://robu.in/wp-content/uploads/2019/02/Muscle-Sensor-v3-Schematic.pdf
 
 
 
-# UserManual : https://robu.in/wp-content/uploads/2019/02/Muscle-Sensor-v3-Users-Manual.pdf
+# UserManual : 
+ https://robu.in/wp-content/uploads/2019/02/Muscle-Sensor-v3-Users-Manual.pdf
 
 # EMG Module : 
 
