@@ -24,11 +24,12 @@ int main()
 	{
 		 float emg_mv = EMG_read();
 		 printf("EMG: %.2f mV\n\r", emg_mv);
-		 for (volatile int i = 0; i < 1000000; i++); // simple delay
+		 for (volatile int i = 0; i < 1000000; i++); // simple delay of emg sensor
 
 
 
 
 	}
 }
+
 
