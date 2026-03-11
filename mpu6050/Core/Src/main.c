@@ -142,9 +142,8 @@ int main(void)
 	  G_Force_Exp(ax,ay,az);
 
 
-	  HAL_Delay(1000);
-	  //GYROSCOPE();
-	  //ACCELEROMETER();
+	  HAL_Delay(1000);                     //GYROSCOPE();
+	                                     //ACCELEROMETER();
 
 
 
@@ -318,3 +317,4 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
+
