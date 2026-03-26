@@ -1,6 +1,6 @@
 # GAIT-AI
 
-IMU & EMG based GAIT Analysis
+IMU & EMG based GAIT Analysis 
 
 This project is aimed at analyzing human gait using IMU (Inertial Measurement Unit) sensors and EMG (Electromyography) sensors. It can be used for rehabilitation monitoring, physiotherapy, and movement analysis.
 
